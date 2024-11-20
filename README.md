@@ -1,2 +1,2 @@
-# Moduli_5
+# Moduli_5 Gogalic
 ![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
